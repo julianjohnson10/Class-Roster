@@ -4,7 +4,7 @@
 void PrintClassHeader() {
 	cout << "Course Title: Scripting and Programming - Applications - C867" << endl;
 	cout << "Language used: C++" << endl;
-	cout << "Student ID: #001425255" << endl;
+	cout << "Student ID: #XXXX" << endl;
 	cout << "Name: Julian Johnson" << endl << endl;
 };
 
@@ -16,7 +16,7 @@ int main() {
 	  "A2,Suzan,Erickson,Erickson_1990@gmailcom,19,50,30,40,NETWORK",
 	  "A3,Jack,Napoli,The_lawyer99yahoo.com,19,20,40,33,SOFTWARE",
 	  "A4,Erin,Black,Erin.black@comcast.net,22,50,58,40,SECURITY",
-	  "A5,Julian,Johnson,jjo2644@wgu.edu,27,45,35,40,SOFTWARE"
+	  "A5,Julian,Johnson,xxxxx@wgu.edu,27,45,35,40,SOFTWARE"
 	};
 
 	const int numStudents = 5;
